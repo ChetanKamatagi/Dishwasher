@@ -15,7 +15,7 @@ The SmartClean Dishwasher is an innovative home appliance developed through Mode
 
 * **Remote Monitoring and Control:** Enabled through MBSE-driven IoT integration, users can monitor and control the dishwasher remotely using a smartphone app. This feature enhances flexibility and convenience in managing dishwashing tasks.
 
-* **Reliability and Durability: **Applying MBSE-driven reliability engineering, the SmartClean Dishwasher was subjected to extensive simulations and testing. This ensures robust performance and longevity, reducing maintenance needs.
+* **Reliability and Durability:** Applying MBSE-driven reliability engineering, the SmartClean Dishwasher was subjected to extensive simulations and testing. This ensures robust performance and longevity, reducing maintenance needs.
 
   
 ## Benefits:
