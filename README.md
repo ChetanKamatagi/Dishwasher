@@ -5,9 +5,9 @@ The SmartClean Dishwasher is an innovative home appliance developed through Mode
 
 * **Intelligent Cleaning Algorithms:** The dishwasher incorporates MBSE-driven algorithms that optimize the cleaning process based on load size, soil level, and water hardness. These algorithms ensure thorough cleaning while conserving water and energy.
 
-* ** Modular Design**: Employing MBSE, the SmartClean Dishwasher was developed using a modular approach. This allows for easier maintenance and future upgrades. Each module is well-defined, promoting easy replacement and minimizing downtime.
+* **Modular Design:** Employing MBSE, the SmartClean Dishwasher was developed using a modular approach. This allows for easier maintenance and future upgrades. Each module is well-defined, promoting easy replacement and minimizing downtime.
 
-* **User-Friendly Interface: **The intuitive touch-screen interface is a result of MBSE-driven user experience design. The interface provides a variety of wash cycle options, progress tracking, and maintenance alerts, enhancing user convenience.
+* **User-Friendly Interface:** The intuitive touch-screen interface is a result of MBSE-driven user experience design. The interface provides a variety of wash cycle options, progress tracking, and maintenance alerts, enhancing user convenience.
 
 * **Energy Efficiency:** MBSE principles were employed to optimize energy consumption by coordinating the dishwasher's components, such as water heaters and pumps, to work harmoniously. This results in shorter cycle times and reduced energy bills.
 
